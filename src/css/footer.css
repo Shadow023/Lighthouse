@@ -1,0 +1,30 @@
+._Footer {
+  background-color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 80%);
+}
+.Footer_cards {
+  align-items: center;
+  justify-content: center;
+  width: 33%;
+  display: inline-flex;
+}
+.Footer_cards ul {
+  display: block;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.Footer_cards h5 {
+  font-size: 70%;
+}
+.Footer_cards ul a {
+  text-decoration: none;
+  color: hsl(0, 0%, 80%);
+}
+
+.Footer_final {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

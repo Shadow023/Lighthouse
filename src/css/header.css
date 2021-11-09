@@ -1,0 +1,49 @@
+.header_body {
+  width: 100%;
+  background-color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 80%);
+}
+
+.header_logo {
+  display: inline;
+  margin: 1%;
+  width: 10%;
+}
+
+.header_search {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.header_search_space {
+  display: inline-flex;
+  margin-left: 50%;
+  height: 1000%;
+}
+
+.header_sign_in {
+  display: inline-flex;
+  padding: 0.5%;
+  margin: 2%;
+  border: solid;
+  border-radius: 25%;
+  text-decoration: none;
+  border-color: gray;
+  color: gray;
+}
+
+.header_guest {
+  display: inline-flex;
+  padding: 0.5%;
+  margin: 2%;
+  border: solid;
+  border-radius: 25%;
+  border-color: gray;
+  text-decoration: none;
+  color: gray;
+}
+
+.header_cart {
+  display: inline-flex;
+  float: right;
+}
